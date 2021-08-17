@@ -71,6 +71,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [AWS Honeycode](https://www.honeycode.aws/) - Build apps for managing your team's work.
 - [Budibase](https://www.budibase.com/) - Open Source software to build internal tools on your own infrastructure in minutes.
 - [JetAdmin](https://www.jetadmin.io/) - Build apps for your teams without engineering effort.
+- [DronaHQ](https://www.dronahq.com/) - Build mobile responsive internal tools and apps on top of Databases or APIs blazingly fast.
 - [Ninox](https://ninox.com/) - Make your business process digital in the cloud.
 - [Retool](https://retool.com/) - Build internal tools, remarkably fast.
 - [Trevor.io](https://trevor.io/) - Empowering your whole team to get answers from your database data.
@@ -86,7 +87,6 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Appypie AppMakr](https://www.appypie.com/app-builder/appmaker) - App builder to make your app without coding.
 - [Betty Blocks](https://www.bettyblocks.com/) - Build Faster and Innovate Smarter with No-Code.
 - [Bubble](https://bubble.io/) - Build production-ready web apps.
-- [DronaHQ](https://dronahq.com/) - Rapidly build and deploy cloud based apps like data collection apps, online forms, online database app, business process apps, automation apps, internal tools, custom business apps.
 - [FileMaker](https://www.claris.com/filemaker/) - An application development platform to build apps like a boss.
 - [Fliplet](https://fliplet.com/) - App builder for mobile and web.
 - [Glide](https://www.glideapps.com/) - Build an app from a Google Sheet.
