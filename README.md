@@ -74,6 +74,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Ninox](https://ninox.com/) - Make your business process digital in the cloud.
 - [Retool](https://retool.com/) - Build internal tools, remarkably fast.
 - [Trevor.io](https://trevor.io/) - Empowering your whole team to get answers from your database data.
+- [DronaHQ](https://dronahq.com/) - Rapidly build and deploy internal tools like database GUIs, admin panels, dashboards, forms, operational apps 
 
 ## Apps
 
@@ -86,7 +87,6 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Appypie AppMakr](https://www.appypie.com/app-builder/appmaker) - App builder to make your app without coding.
 - [Betty Blocks](https://www.bettyblocks.com/) - Build Faster and Innovate Smarter with No-Code.
 - [Bubble](https://bubble.io/) - Build production-ready web apps.
-- [DronaHQ](https://dronahq.com/) - Rapidly build and deploy cloud based apps like data collection apps, online forms, online database app, business process apps, automation apps, internal tools, custom business apps.
 - [FileMaker](https://www.claris.com/filemaker/) - An application development platform to build apps like a boss.
 - [Fliplet](https://fliplet.com/) - App builder for mobile and web.
 - [Glide](https://www.glideapps.com/) - Build an app from a Google Sheet.
